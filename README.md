@@ -48,8 +48,7 @@
 
 # Scheduling infrastructure for absolutely everyone
 
-The open source Calendly successor. You are in charge
-of your own data, workflow, and appearance.
+The open source Calendly successor.
 
 Calendly and other scheduling tools are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes, and even calls with our families. However, most tools are very limited in terms of control and customization.
 
